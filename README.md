@@ -6,7 +6,7 @@ This project provides a recommendation engine for Hacker News posts based on the
 
 The project consists of three parts:
 
--   `root`: The API using Python and FastAPI.
+-   `main`: The API using Python and FastAPI.
 -   `next`: The website using Next.JS and Typescript.
 -   `createIndex.piynb`: The Jupyter notebook to convert the dataset to a Faiss HNSW index.
 
